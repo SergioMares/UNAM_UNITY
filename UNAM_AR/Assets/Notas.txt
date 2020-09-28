@@ -1,20 +1,20 @@
---DESCRIPCI覰--
-Permite generar una aplicaci髇 sencilla de realidad aumentada. En este caso, cuando 
-la aplicaci髇 encuentra la portada del libro (image target) se muestra un modelo 3D 
-El image target adem醩 cuenta con un bot髇 virtual, el cual se encuentra en la parte 
-inferior del image target. La funcionalidad del bot髇 virtual es desactivar el modelo 
+--DESCRIPCI脫N--
+Permite generar una aplicaci贸n sencilla de realidad aumentada. En este caso, cuando 
+la aplicaci贸n encuentra la portada del libro (image target) se muestra un modelo 3D 
+El image target adem谩s cuenta con un bot贸n virtual, el cual se encuentra en la parte 
+inferior del image target. La funcionalidad del bot贸n virtual es desactivar el modelo 
 3D cuando es presionado y activarlo de nuevo cuando se suelta. 
 
 --RECOMENDACIONES GENERALES--
 -> Verificar tener todas las herramientas necesarias en caso de desarrollar para 
-dispositivos m髒iles (JDK, SDK, NDK para Android)
--> Asegurar que se usa una licencia v醠ida para Vuforia. Assets > Resources > VuforiaConfiguration
--> Empezar siempre en un proyecto nuevo, ya que Vuforia hara ajustes que podr韆n ser 
-ser diferetes a los que nosotros hayamos establecido
+dispositivos m贸viles (JDK, SDK, NDK para Android)
+-> Asegurar que se usa una licencia v谩lida para Vuforia. Assets > Resources > VuforiaConfiguration
+-> Empezar siempre en un proyecto nuevo, ya que Vuforia har谩 ajustes que podr铆an ser 
+ser diferentes a los que nosotros hayamos establecido
 
 --ASSETS Y MATERIALES UTILIZADOS--
-Vuforia Engine -> librer韆s y paquetes necesarios para poder desarrollar con Vuforia
-Space Robot Kyle -> Modelo 3D usado para ejemplificaci髇 de image target
+Vuforia Engine -> librer铆as y paquetes necesarios para poder desarrollar con Vuforia
+Space Robot Kyle -> Modelo 3D usado para ejemplificaci贸n de image target
 
 --REPOSITORIO DEL PROYECTO--
 https://github.com/SergioMares/UNAM_UNITY/tree/master/UNAM_AR
