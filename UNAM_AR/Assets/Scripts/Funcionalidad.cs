@@ -5,7 +5,7 @@ public class Funcionalidad : MonoBehaviour
     public float m_ButtonReleaseTimeDelay;
     public GameObject modelo;
     VirtualButtonBehaviour[] virtualButtonBehaviours;
-    
+
     void Awake()
     {
         //registramos en un arreglo los botones 

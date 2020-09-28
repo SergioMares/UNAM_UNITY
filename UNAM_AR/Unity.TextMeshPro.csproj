@@ -246,10 +246,10 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions.Editor">
-      <HintPath>C:/Users/Femto/Documents/LAVIS/UNAM_AR/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Plugins/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
+      <HintPath>C:/Users/Sergio Mares/Downloads/UNAM_UNITY-master/DeleteMe2/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Plugins/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Users/Femto/Documents/LAVIS/UNAM_AR/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>C:/Users/Sergio Mares/Downloads/UNAM_UNITY-master/DeleteMe2/Library/PackageCache/com.ptc.vuforia.engine@9.4.6/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.9f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -668,46 +668,25 @@
     <Compile Include="Packages\com.unity.textmeshpro\Scripts\Runtime\TextMeshProUGUI.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\Common\TextMeshPro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMP_Sprite.shader" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro.cginc" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\Common\TextMeshPro\Resources\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Common\TextMeshPro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Editor\Migration\EditorMigrationScripts.asmdef" />
     <None Include="Assets\Editor\Vuforia\CylinderTargetTextures\VuforiaMars_Images\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\TargetsetData\VuforiaMars_Object_info.xml" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_ModelTarget\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\VuforiaMars_VuMark\authoringinfo.xml" />
     <None Include="Assets\Editor\Vuforia\Vuforia_Marslander_RZR_Toy360\authoringinfo.xml" />
-    <None Include="Assets\SamplesResources\SceneAssets\ModelTargets\Shaders\RadialTexture.shader" />
-    <None Include="Assets\SamplesResources\SceneAssets\VirtualButtons\Shaders\Gradient.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\UNAM_Targets_Device.xml" />
-    <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
-    <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_ModelTarget.xml" />
-    <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
-    <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_VuMark.xml" />
-    <None Include="Assets\StreamingAssets\Vuforia\Vuforia_Marslander_RZR_Toy360.xml" />
+    <None Include="Packages\com.ptc.vuforia.engine\Tests\Editor\VuforiaPackageTests.asmdef" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Editor\EditorResources\Licenses\license_3rdpartynotice.txt" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Editor\EditorResources\Licenses\readme_SDK.txt" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Editor\EditorResources\webcamprofiles.xml" />
+    <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Editor\Scripts\VuforiaEditorScripts.asmdef" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\Android\Vuforia.UnityExtensions.XML" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\Editor\Vuforia.UnityExtensions.Editor.XML" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\Lumin\Vuforia.UnityExtensions.XML" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\Runtime\Vuforia.UnityExtensions.XML" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\WindowsStoreApps\Vuforia.UnityExtensions.XML" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Plugins\Managed\iOS\Vuforia.UnityExtensions.XML" />
+    <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Scripts\VuforiaScripts.asmdef" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Shaders\BrightTexture.shader" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Packages\com.ptc.vuforia.engine\Vuforia\Shaders\ColoredLines.shader" />
@@ -724,16 +703,32 @@
     <None Include="Packages\com.unity.collab-proxy\Editor\Resources\Styles\CollabHistoryCommon.uss" />
     <None Include="Packages\com.unity.collab-proxy\Editor\Resources\Styles\CollabHistoryDark.uss" />
     <None Include="Packages\com.unity.collab-proxy\Editor\Resources\Styles\CollabHistoryLight.uss" />
+    <None Include="Packages\com.unity.collab-proxy\Editor\Unity.CollabProxy.Editor.asmdef" />
+    <None Include="Packages\com.unity.collab-proxy\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef" />
     <None Include="Packages\com.unity.ext.nunit\net35\unity-custom\This is a custom build DONT include.txt" />
     <None Include="Packages\com.unity.ext.nunit\net35\unity-custom\nunit.framework.xml" />
+    <None Include="Packages\com.unity.ide.rider\Rider\Editor\com.unity.ide.rider.asmdef" />
+    <None Include="Packages\com.unity.ide.vscode\Editor\Unity.com.unity.vscode.Editor.asmdef" />
+    <None Include="Packages\com.unity.test-framework\UnityEditor.TestRunner\UnityEditor.TestRunner.asmdef" />
+    <None Include="Packages\com.unity.test-framework\UnityEngine.TestRunner\UnityEngine.TestRunner.asmdef" />
     <None Include="Packages\com.unity.textmeshpro\Editor Resources\Shaders\TMP_Properties.cginc" />
     <None Include="Packages\com.unity.textmeshpro\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
     <None Include="Packages\com.unity.textmeshpro\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+    <None Include="Packages\com.unity.textmeshpro\Scripts\Editor\Unity.TextMeshPro.Editor.asmdef" />
+    <None Include="Packages\com.unity.textmeshpro\Scripts\Runtime\Unity.TextMeshPro.asmdef" />
+    <None Include="Packages\com.unity.textmeshpro\Tests\Editor\Unity.TextMeshPro.Editor.Tests.asmdef" />
+    <None Include="Packages\com.unity.textmeshpro\Tests\Runtime\Unity.TextMeshPro.Tests.asmdef" />
     <None Include="Packages\com.unity.timeline\Editor\StyleSheets\Extensions\common.uss" />
     <None Include="Packages\com.unity.timeline\Editor\StyleSheets\Extensions\dark.uss" />
     <None Include="Packages\com.unity.timeline\Editor\StyleSheets\Extensions\light.uss" />
     <None Include="Packages\com.unity.timeline\Editor\StyleSheets\res\Timeline_DarkSkin.txt" />
     <None Include="Packages\com.unity.timeline\Editor\StyleSheets\res\Timeline_LightSkin.txt" />
+    <None Include="Packages\com.unity.timeline\Editor\Unity.Timeline.Editor.asmdef" />
+    <None Include="Packages\com.unity.timeline\Runtime\Unity.Timeline.asmdef" />
+    <None Include="Packages\com.unity.ugui\Editor\UnityEditor.UI.asmdef" />
+    <None Include="Packages\com.unity.ugui\Runtime\UnityEngine.UI.asmdef" />
+    <None Include="Packages\com.unity.ugui\Tests\Editor\UnityEditor.UI.EditorTests.asmdef" />
+    <None Include="Packages\com.unity.ugui\Tests\Runtime\UnityEngine.UI.Tests.asmdef" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -1,0 +1,26 @@
+--DESCRIPCIÓN--
+Permite generar una aplicación sencilla de realidad aumentada. En este caso, cuando 
+la aplicación encuentra la portada del libro (image target) se muestra un modelo 3D 
+El image target además cuenta con un botón virtual, el cual se encuentra en la parte 
+inferior del image target. La funcionalidad del botón virtual es desactivar el modelo 
+3D cuando es presionado y activarlo de nuevo cuando se suelta. 
+
+--RECOMENDACIONES GENERALES--
+-> Verificar tener todas las herramientas necesarias en caso de desarrollar para 
+dispositivos móviles (JDK, SDK, NDK para Android)
+-> Asegurar que se usa una licencia válida para Vuforia. Assets > Resources > VuforiaConfiguration
+-> Empezar siempre en un proyecto nuevo, ya que Vuforia hara ajustes que podrían ser 
+ser diferetes a los que nosotros hayamos establecido
+
+--ASSETS Y MATERIALES UTILIZADOS--
+Vuforia Engine -> librerías y paquetes necesarios para poder desarrollar con Vuforia
+Space Robot Kyle -> Modelo 3D usado para ejemplificación de image target
+
+--REPOSITORIO DEL PROYECTO--
+https://github.com/SergioMares/UNAM_UNITY/tree/master/UNAM_AR
+
+
+--CONTACTO--
+Cualquier duda de este proyecto o de Unity en general, no dudes en contactarme :D
+sergiomaresmtz@gmail.com
+3531350296
