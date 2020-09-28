@@ -1,0 +1,28 @@
+--DESCRIPCIÓN--
+Aplicación en AR que permite controlar un carro mediante un botón virtual. Esta práctica
+está incompleta esperando que quien la use, pueda completarla a manera de poner sus 
+conocimientos de Unity a prueba
+
+--RETOS--
+->El motor del carro suena desde que la aplicación empieza. Corregir esto a que solo suene 
+cuando el el carro o image target sean detectados.
+->Solo se cuenta con un botón virtual que permite mover el carro en línea recta. Agregar
+más botones virtuales para que al menos pueda dar vuelta.
+->Notar que lo que en realidad se mueve es la ciudad y no el carro ¿Por qué el desarrollador
+habrá optado por esta opción en lugar de aplicar movimiento al carro? 
+
+--RECOMENDACIONES GENERALES--
+-> Verificar tener todas las herramientas necesarias en caso de desarrollar para 
+dispositivos móviles (JDK, SDK, NDK para Android)
+-> Asegurar que se usa una licencia válida para Vuforia. Assets > Resources > VuforiaConfiguration
+-> Empezar siempre en un proyecto nuevo, ya que Vuforia hará ajustes que podrían ser 
+ser diferentes a los que nosotros hayamos establecido
+
+--REPOSITORIO DEL PROYECTO--
+https://github.com/SergioMares/UNAM_UNITY/tree/master/PracticAR
+
+
+--CONTACTO--
+Cualquier duda de este proyecto o de Unity en general, no dudes en contactarme :D
+sergiomaresmtz@gmail.com
+3531350296
