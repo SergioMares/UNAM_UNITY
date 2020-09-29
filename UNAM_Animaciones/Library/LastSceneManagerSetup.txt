@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Kevin Iglesias/Basic Motions Pack/Basic Motions Pack - Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

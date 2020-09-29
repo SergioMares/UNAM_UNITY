@@ -1,0 +1,20 @@
+--DESCRIPCIÓN--
+Uso básico de las dos ventanas principales para gestionar animaciones con Unity. Se 
+explora el uso de la ventana animation y animator, como llamar eventos desde timeline
+y controlar animaciones mediante código.
+
+--RECOMENDACIONES GENERALES--
+-> Si se planea controlar animaciones desde código, verificar que estas sean del tipo
+legacy, de otra manera, el código no las detectará.
+
+--ASSETS Y MATERIALES UTILIZADOS--
+Basic Motions FREE Pack -> Modelo 3D, animaciones y controladores usados para el proyecto
+
+--REPOSITORIO DEL PROYECTO--
+https://github.com/SergioMares/UNAM_UNITY/tree/master/UNAM_Animaciones
+
+
+--CONTACTO--
+Cualquier duda de este proyecto o de Unity en general, no dudes en contactarme :D
+sergiomaresmtz@gmail.com
+3531350296
