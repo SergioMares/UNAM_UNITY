@@ -1,0 +1,17 @@
+--DESCRIPCIÓN--
+Proyecto únicamente creado para demostrar los scripts dentro de la carpeta Scripts. 
+
+--RECOMENDACIONES GENERALES--
+-> Tener solo un script habilitado a la vez. Una vez que se haya entendido lo que hace
+cada script, entonces recomiendo combinarlos o habilitar varios a la vez y ver como
+interactúan.
+
+
+--REPOSITORIO DEL PROYECTO--
+https://github.com/SergioMares/UNAM_UNITY/tree/master/UNAM_ScriptingIntermedio
+
+
+--CONTACTO--
+Cualquier duda de este proyecto o de Unity en general, no dudes en contactarme :D
+sergiomaresmtz@gmail.com
+3531350296
