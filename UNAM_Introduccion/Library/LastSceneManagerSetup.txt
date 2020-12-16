@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Fisicas/Joints/Hinge.unity
+- path: Assets/Scenes/Fisicas/MassGravity.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
