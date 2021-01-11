@@ -1,0 +1,18 @@
+--DESCRIPCIÓN--
+Introducción al entorno Unity con ejemplos del uso de físicas(rigidbody, colliders, 
+materiales físicos y joints).
+
+
+--RECOMENDACIONES GENERALES--
+-> Explorar la carpeta 'Scenes' y cambiar las propiedades componentes rigidbody, 
+así como las de los materiales físicos, con el motivo de conocer como afecta cada una de estas propiedades
+
+
+--REPOSITORIO DEL PROYECTO--
+https://github.com/SergioMares/UNAM_UNITY/tree/master/UNAM_Introduccion
+
+
+--CONTACTO--
+Cualquier duda de este proyecto o de Unity en general, no dudes en contactarme :D
+sergiomaresmtz@gmail.com
+3531350296

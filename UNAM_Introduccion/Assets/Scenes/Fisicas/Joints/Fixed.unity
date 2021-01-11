@@ -244,7 +244,6 @@ GameObject:
   - component: {fileID: 78248019}
   - component: {fileID: 78248018}
   - component: {fileID: 78248017}
-  - component: {fileID: 78248016}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -266,20 +265,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &78248016
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 78248014}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &78248017
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -369,7 +354,6 @@ GameObject:
   - component: {fileID: 100486405}
   - component: {fileID: 100486404}
   - component: {fileID: 100486403}
-  - component: {fileID: 100486402}
   m_Layer: 0
   m_Name: Cube (3)
   m_TagString: Untagged
@@ -391,20 +375,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &100486402
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 100486400}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &100486403
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1909,7 +1879,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &849807186
 Transform:
   m_ObjectHideFlags: 0
@@ -1918,7 +1888,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 849807185}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.173739, y: 1.3730857, z: 0.5684514}
+  m_LocalPosition: {x: 3.84, y: 1.3730857, z: 4.56}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1026537098}
@@ -2294,7 +2264,6 @@ GameObject:
   - component: {fileID: 1077550890}
   - component: {fileID: 1077550889}
   - component: {fileID: 1077550888}
-  - component: {fileID: 1077550887}
   m_Layer: 0
   m_Name: Cube (5)
   m_TagString: Untagged
@@ -2316,20 +2285,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1077550887
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1077550885}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1077550888
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3425,7 +3380,6 @@ GameObject:
   - component: {fileID: 1608096413}
   - component: {fileID: 1608096412}
   - component: {fileID: 1608096411}
-  - component: {fileID: 1608096410}
   m_Layer: 0
   m_Name: Cube (7)
   m_TagString: Untagged
@@ -3447,20 +3401,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1608096410
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1608096408}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1608096411
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3644,7 +3584,6 @@ GameObject:
   - component: {fileID: 1693441384}
   - component: {fileID: 1693441383}
   - component: {fileID: 1693441382}
-  - component: {fileID: 1693441381}
   m_Layer: 0
   m_Name: Cube (4)
   m_TagString: Untagged
@@ -3666,20 +3605,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1693441381
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1693441379}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1693441382
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3769,7 +3694,6 @@ GameObject:
   - component: {fileID: 1732413300}
   - component: {fileID: 1732413299}
   - component: {fileID: 1732413298}
-  - component: {fileID: 1732413297}
   m_Layer: 0
   m_Name: Cube (2)
   m_TagString: Untagged
@@ -3791,20 +3715,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1732413297
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1732413295}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1732413298
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4004,7 +3914,6 @@ GameObject:
   - component: {fileID: 1747657625}
   - component: {fileID: 1747657624}
   - component: {fileID: 1747657623}
-  - component: {fileID: 1747657622}
   m_Layer: 0
   m_Name: Cube (1)
   m_TagString: Untagged
@@ -4026,20 +3935,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1747657622
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1747657620}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1747657623
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4254,7 +4149,6 @@ GameObject:
   - component: {fileID: 1839196780}
   - component: {fileID: 1839196779}
   - component: {fileID: 1839196778}
-  - component: {fileID: 1839196777}
   m_Layer: 0
   m_Name: Cube (6)
   m_TagString: Untagged
@@ -4276,20 +4170,6 @@ Transform:
   m_Father: {fileID: 849807186}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!138 &1839196777
-FixedJoint:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1839196775}
-  m_ConnectedBody: {fileID: 0}
-  m_BreakForce: 10
-  m_BreakTorque: Infinity
-  m_EnableCollision: 0
-  m_EnablePreprocessing: 1
-  m_MassScale: 1
-  m_ConnectedMassScale: 1
 --- !u!54 &1839196778
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Fisicas/MassGravity.unity
+- path: Assets/Scenes/Fisicas/Joints/Spring.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
