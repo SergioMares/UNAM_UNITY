@@ -8,9 +8,13 @@ public class CreandoPrimitivas : MonoBehaviour
     
     void Start()
     {
-        GameObject plane = GameObject.CreatePrimitive(PrimitiveType.Plane);
-        GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        //GameObject plane = GameObject.CreatePrimitive(PrimitiveType.Plane);
+        //GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
 
-        //Instantiate(prefab, transform.position, transform.rotation);
+        cubo.SetActive(false);
+        
+        
+
+        Instantiate(prefab, transform.position, transform.rotation);
     }
 }

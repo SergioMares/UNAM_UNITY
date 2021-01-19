@@ -1,0 +1,3944 @@
+fileFormatVersion: 2
+guid: 049b9240dcc7b0f4abde36d184d0dc5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5789449873676621902
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_0
+  - first:
+      213: -5206110346046141185
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_1
+  - first:
+      213: 621818161762859032
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_2
+  - first:
+      213: 6789684324686893313
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_3
+  - first:
+      213: 1708110759408758843
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_4
+  - first:
+      213: -7928970954157948695
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_5
+  - first:
+      213: -3144417821671307104
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_6
+  - first:
+      213: 8168385861841127704
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_7
+  - first:
+      213: -5910007924241282746
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_8
+  - first:
+      213: -3110761919844059173
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_9
+  - first:
+      213: 2740558518475205590
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_10
+  - first:
+      213: 2393344005552650128
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_11
+  - first:
+      213: -204088430395084813
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_12
+  - first:
+      213: 6781150161672834917
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_13
+  - first:
+      213: -4902211705941048878
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_14
+  - first:
+      213: 9130223676896256509
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_15
+  - first:
+      213: 453422183585440501
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_16
+  - first:
+      213: 2533742628776545457
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_17
+  - first:
+      213: 2995196311528478126
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_18
+  - first:
+      213: 4557094701830957423
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_19
+  - first:
+      213: 3584306780698300343
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_20
+  - first:
+      213: -8318780699886000744
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_21
+  - first:
+      213: -6982139786682617972
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_22
+  - first:
+      213: -403949145823390159
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_23
+  - first:
+      213: 9154183867690112694
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_24
+  - first:
+      213: 7813025780288473190
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_25
+  - first:
+      213: 1422497344994754915
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_26
+  - first:
+      213: -8400667850251574114
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_27
+  - first:
+      213: 7425718851239301878
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_28
+  - first:
+      213: 8676014991084215084
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_29
+  - first:
+      213: 3636795954422764473
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_30
+  - first:
+      213: -4943888219273282853
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_31
+  - first:
+      213: 5194589651575732040
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_32
+  - first:
+      213: -42064954019470086
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_33
+  - first:
+      213: -6424319613653865691
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_34
+  - first:
+      213: -9161205885972461798
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_35
+  - first:
+      213: 3679056199388984493
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_36
+  - first:
+      213: -3153559786893586297
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_37
+  - first:
+      213: 6891072171153837442
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_38
+  - first:
+      213: -5055666681321710757
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_39
+  - first:
+      213: -2562957681391237439
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_40
+  - first:
+      213: 1855213384431632775
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_41
+  - first:
+      213: -6385095472108527371
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_42
+  - first:
+      213: 8764994647287128693
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_43
+  - first:
+      213: -4970967845911115830
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_44
+  - first:
+      213: 379076623919480819
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_45
+  - first:
+      213: 6163658471075392292
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_46
+  - first:
+      213: -7172406015054465383
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_47
+  - first:
+      213: 1440366994407505964
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_48
+  - first:
+      213: -375013292334765090
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_49
+  - first:
+      213: 1664399911104532332
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_50
+  - first:
+      213: 3098747775302804219
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_51
+  - first:
+      213: -288825443662134970
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_52
+  - first:
+      213: -8843134200003720686
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_53
+  - first:
+      213: -6819622415037272524
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_54
+  - first:
+      213: 3358549307902604871
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_55
+  - first:
+      213: -6949083972673790314
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_56
+  - first:
+      213: 2851735064396785579
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_57
+  - first:
+      213: -7851376079744513224
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_58
+  - first:
+      213: 1351549232085311558
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_59
+  - first:
+      213: 2409533408115704519
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_60
+  - first:
+      213: -2677200818247306130
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_61
+  - first:
+      213: 9181396746708350118
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_62
+  - first:
+      213: 4686915630171687768
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_63
+  - first:
+      213: 4511409978718400066
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_64
+  - first:
+      213: -1030957726517642261
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_65
+  - first:
+      213: -2574498881918302840
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_66
+  - first:
+      213: -2206207850509891829
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_67
+  - first:
+      213: -43613301547013434
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_68
+  - first:
+      213: -4492872966077274288
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_69
+  - first:
+      213: -63767302754812848
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_70
+  - first:
+      213: -1500372205200871088
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_71
+  - first:
+      213: 7389342691446007179
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_72
+  - first:
+      213: -6300176442052586190
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_73
+  - first:
+      213: -6334877978400421626
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_74
+  - first:
+      213: -2821852860242629658
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_75
+  - first:
+      213: -187922398912551390
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_76
+  - first:
+      213: 4733893859094356215
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_77
+  - first:
+      213: -3439245413207988075
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_78
+  - first:
+      213: 5911780409624322979
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_79
+  - first:
+      213: -6303157782589379602
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_80
+  - first:
+      213: 3411411673991838217
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_81
+  - first:
+      213: 8707645624737966528
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_82
+  - first:
+      213: 7946453562804367610
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_83
+  - first:
+      213: -3916229430700057479
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_84
+  - first:
+      213: 2529541567923258828
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_85
+  - first:
+      213: -6579875595295394394
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_86
+  - first:
+      213: 4797145821647856401
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_87
+  - first:
+      213: -1362543848820505784
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_88
+  - first:
+      213: -1880216802495494942
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_89
+  - first:
+      213: 3402477585162376862
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_90
+  - first:
+      213: -2335266485116234339
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_91
+  - first:
+      213: -3721545264122219094
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_92
+  - first:
+      213: 3096850265920191921
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_93
+  - first:
+      213: 2423116015272990869
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_94
+  - first:
+      213: 6277223723867719281
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_95
+  - first:
+      213: -7530561406224493594
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_96
+  - first:
+      213: 7413253064302372277
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_97
+  - first:
+      213: 8530363863678729724
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_98
+  - first:
+      213: -8727313911385001142
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_99
+  - first:
+      213: 181684414055462292
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_100
+  - first:
+      213: -8953479652003420927
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_101
+  - first:
+      213: -4290532358810885387
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_102
+  - first:
+      213: 2442977377433761028
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_103
+  - first:
+      213: -826248678347185734
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_104
+  - first:
+      213: -3165657667089566602
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_105
+  - first:
+      213: 4833241978867141327
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_106
+  - first:
+      213: -1713560956473754686
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_107
+  - first:
+      213: -7876943305143841752
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_108
+  - first:
+      213: -2611971872257705265
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_109
+  - first:
+      213: -8166320127988229374
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_110
+  - first:
+      213: -3945361091387190810
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_111
+  - first:
+      213: 8707661397787424631
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_112
+  - first:
+      213: -7252120472172970837
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_113
+  - first:
+      213: -1808249291020855543
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_114
+  - first:
+      213: 1751368269523405245
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_115
+  - first:
+      213: 1185086627232197069
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_116
+  - first:
+      213: 9129769816350990641
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_117
+  - first:
+      213: -7839023958108308143
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_118
+  - first:
+      213: -456130075452334355
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_119
+  - first:
+      213: -9049174568299626759
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_120
+  - first:
+      213: -8443525577242123660
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_121
+  - first:
+      213: -7656220664584612026
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_122
+  - first:
+      213: 8943027608878499466
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_123
+  - first:
+      213: 3658229691401538040
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_124
+  - first:
+      213: 7800894793906643767
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_125
+  - first:
+      213: 492279743434907079
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_126
+  - first:
+      213: -5060293544863706704
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_127
+  - first:
+      213: 8174462866817644905
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_128
+  - first:
+      213: -8921363635477149587
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_129
+  - first:
+      213: -5500157177156962682
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_130
+  - first:
+      213: -4207637353364126604
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_131
+  - first:
+      213: 5701968241156079338
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_132
+  - first:
+      213: 4544577360359378467
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_133
+  - first:
+      213: -6919851605291278275
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_134
+  - first:
+      213: 4500226003161638007
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_135
+  - first:
+      213: 7496724278924639130
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_136
+  - first:
+      213: -5815897123455825417
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_137
+  - first:
+      213: -8002582446181932974
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_138
+  - first:
+      213: -4494011620482890951
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_139
+  - first:
+      213: 2471648293891349454
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_140
+  - first:
+      213: 4525869907691922407
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_141
+  - first:
+      213: -7205395812531733651
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_142
+  - first:
+      213: 7036533482882010411
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_143
+  - first:
+      213: 1708577638969349476
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_144
+  - first:
+      213: 4921457432967535928
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_145
+  - first:
+      213: 7423652688854195575
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_146
+  - first:
+      213: 6700630629675728882
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_147
+  - first:
+      213: 2517892154772239066
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_148
+  - first:
+      213: 8424624625944080733
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_149
+  - first:
+      213: -8488924250459966212
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_150
+  - first:
+      213: -9110770272512555489
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_151
+  - first:
+      213: -9146938476458435843
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_152
+  - first:
+      213: -1263312135429447349
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_153
+  - first:
+      213: 1119696250681408913
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_154
+  - first:
+      213: -3986281461219904574
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_155
+  - first:
+      213: -6903311760984511006
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_156
+  - first:
+      213: 5343371380108520467
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_157
+  - first:
+      213: 4437229972512458230
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_158
+  - first:
+      213: 5301010228575339892
+    second: Game Boy Advance - Metroid Fusion - SA-X Clone_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72392830eb7afa0800000000000000
+      internalID: -5789449873676621902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 746
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc0f62393e20c7b0800000000000000
+      internalID: -5206110346046141185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 746
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f2c6d25421a800800000000000000
+      internalID: 621818161762859032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 745
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10110068bedc93e50800000000000000
+      internalID: 6789684324686893313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 745
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f49b8fad64b710800000000000000
+      internalID: 1708110759408758843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 745
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0860b3de2a6f190800000000000000
+      internalID: -7928970954157948695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 745
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8cfd9a6a8cc54d0800000000000000
+      internalID: -3144417821671307104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 745
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190d53d9afeb5170800000000000000
+      internalID: 8168385861841127704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 745
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649cadffa1f6bfda0800000000000000
+      internalID: -5910007924241282746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 755
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f1e2f38a54d4d0800000000000000
+      internalID: -3110761919844059173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 754
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba2e3d37b680620800000000000000
+      internalID: 2740558518475205590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 753
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b64c41bdd63120800000000000000
+      internalID: 2393344005552650128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 753
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa88367aeea2df0800000000000000
+      internalID: -204088430395084813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 758
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f871bd42c7b1e50800000000000000
+      internalID: 6781150161672834917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 758
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d14f9d2d68d7fbb0800000000000000
+      internalID: -4902211705941048878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 758
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df123456f0215be70800000000000000
+      internalID: 9130223676896256509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_16
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 758
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f264e9d211ea4600800000000000000
+      internalID: 453422183585440501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 694
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8d7c1f79a92320800000000000000
+      internalID: 2533742628776545457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 694
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea517351d23119920800000000000000
+      internalID: 2995196311528478126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 694
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e27e9c7d0e3f30800000000000000
+      internalID: 4557094701830957423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 694
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfcb8dc6040eb130800000000000000
+      internalID: 3584306780698300343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 694
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956bea3701cd8c80800000000000000
+      internalID: -8318780699886000744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 694
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f29a26bd47a1f90800000000000000
+      internalID: -6982139786682617972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 694
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136dfdf5462e46af0800000000000000
+      internalID: -403949145823390159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 694
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d74a0ab13a0f70800000000000000
+      internalID: 9154183867690112694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 694
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668401f4d817d6c60800000000000000
+      internalID: 7813025780288473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 712
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361495e6cc9bdb310800000000000000
+      internalID: 1422497344994754915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 710
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e5bd4915da6b80800000000000000
+      internalID: -8400667850251574114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_28
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 710
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f25a0ab3f37d0760800000000000000
+      internalID: 7425718851239301878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_29
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 710
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bd989baa5676870800000000000000
+      internalID: 8676014991084215084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_30
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 711
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b352f7e6ae787230800000000000000
+      internalID: 3636795954422764473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_31
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 711
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3af0cbd7c36bb0800000000000000
+      internalID: -4943888219273282853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_32
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 711
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847771814c3e61840800000000000000
+      internalID: 5194589651575732040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 711
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af42d2ea52e8a6ff0800000000000000
+      internalID: -42064954019470086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 640
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2690595b38d6a0800000000000000
+      internalID: -6424319613653865691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 640
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17c46ce8cbdcd080800000000000000
+      internalID: -9161205885972461798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 640
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47741fe12ae0330800000000000000
+      internalID: 3679056199388984493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 640
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805044051e4c34d0800000000000000
+      internalID: -3153559786893586297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 640
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d443311a102af50800000000000000
+      internalID: 6891072171153837442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 640
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9a0d70f9a6d9b0800000000000000
+      internalID: -5055666681321710757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 640
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60152619b8e6cd0800000000000000
+      internalID: -2562957681391237439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 640
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78109996eba0fb910800000000000000
+      internalID: 1855213384431632775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_42
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 657
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f024007f759367a0800000000000000
+      internalID: -6385095472108527371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 661
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572efb9513483a970800000000000000
+      internalID: 8764994647287128693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 661
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7449ad413930bb0800000000000000
+      internalID: -4970967845911115830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 660
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffff575e20c24500800000000000000
+      internalID: 379076623919480819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 658
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba64519b6b98550800000000000000
+      internalID: 6163658471075392292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 664
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996bdc7fabe767c90800000000000000
+      internalID: -7172406015054465383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_48
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 664
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c204bd766263df310800000000000000
+      internalID: 1440366994407505964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_49
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 664
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2654c56fabcaf0800000000000000
+      internalID: -375013292334765090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 587
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc39996e2291710800000000000000
+      internalID: 1664399911104532332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 587
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2a47b0fa6f00b20800000000000000
+      internalID: 3098747775302804219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 587
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418c6c0ac2edfbf0800000000000000
+      internalID: -288825443662134970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_53
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 588
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8bab4c40e64580800000000000000
+      internalID: -8843134200003720686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_54
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 588
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6961ab85db51a0800000000000000
+      internalID: -6819622415037272524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 588
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463b2a1dc6fb9e20800000000000000
+      internalID: 3358549307902604871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 589
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1b66d1f4ef8f90800000000000000
+      internalID: -6949083972673790314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 589
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba765e29ee5639720800000000000000
+      internalID: 2851735064396785579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_58
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 589
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b44d8cd0f4a0390800000000000000
+      internalID: -7851376079744513224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_59
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 612
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a5e2addaa1c210800000000000000
+      internalID: 1351549232085311558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 615
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c24c215ed1607120800000000000000
+      internalID: 2409533408115704519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_61
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 616
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64fbfb4a0ca8dad0800000000000000
+      internalID: -2677200818247306130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 615
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47a7d22bfda6f70800000000000000
+      internalID: 9181396746708350118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_63
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 611
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0c9ceee44b0140800000000000000
+      internalID: 4686915630171687768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 573
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea9a1297fbb9e30800000000000000
+      internalID: 4511409978718400066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 580
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb874f86d41b1f0800000000000000
+      internalID: -1030957726517642261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_66
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 574
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858e9c38ea854cd0800000000000000
+      internalID: -2574498881918302840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 574
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b070ea126a9f161e0800000000000000
+      internalID: -2206207850509891829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_68
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 574
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caeecdeeed056ff0800000000000000
+      internalID: -43613301547013434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_69
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 574
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057220477db16a1c0800000000000000
+      internalID: -4492872966077274288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_70
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 574
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cb30bd9f37d1ff0800000000000000
+      internalID: -63767302754812848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_71
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 574
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f12ebd6b9d2be0800000000000000
+      internalID: -1500372205200871088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_72
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 573
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a44707083c8660800000000000000
+      internalID: 7389342691446007179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 535
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235db2dd7e64198a0800000000000000
+      internalID: -6300176442052586190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_74
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 534
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098ff1da0ef518a0800000000000000
+      internalID: -6334877978400421626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 534
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb61d046c3c6d8d0800000000000000
+      internalID: -2821852860242629658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 534
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266a77e29d546df0800000000000000
+      internalID: -187922398912551390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 534
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e8b3326b22b140800000000000000
+      internalID: 4733893859094356215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 534
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a852c4885540d0800000000000000
+      internalID: -3439245413207988075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 534
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a365c9e5fcda0250800000000000000
+      internalID: 5911780409624322979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 534
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb658d646fa688a0800000000000000
+      internalID: -6303157782589379602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 534
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a77e2d7d4c75f20800000000000000
+      internalID: 3411411673991838217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 534
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ad748f85c7d870800000000000000
+      internalID: 8707645624737966528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_83
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 531
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0771bc969774e60800000000000000
+      internalID: 7946453562804367610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_84
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 538
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5134f412c6a9c0800000000000000
+      internalID: -3916229430700057479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_85
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 532
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc586a867acba1320800000000000000
+      internalID: 2529541567923258828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_86
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 532
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f72cf1069fa4a0800000000000000
+      internalID: -6579875595295394394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_87
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 532
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e11b55b2e29240800000000000000
+      internalID: 4797145821647856401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_88
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 533
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843092ca695471de0800000000000000
+      internalID: -1362543848820505784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_89
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 533
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4098aa7c028e5e0800000000000000
+      internalID: -1880216802495494942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 533
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9615db2657083f20800000000000000
+      internalID: 3402477585162376862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_91
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 532
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9595ca2187779fd0800000000000000
+      internalID: -2335266485116234339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 483
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa53574cc4a6a5cc0800000000000000
+      internalID: -3721545264122219094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 483
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd3fb6b8e83afa20800000000000000
+      internalID: 3096850265920191921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 483
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59818eb7d23a0a120800000000000000
+      internalID: 2423116015272990869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 483
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764accf7bd2d1750800000000000000
+      internalID: 6277223723867719281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_96
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 483
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e319b6bc421e7790800000000000000
+      internalID: -7530561406224493594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 483
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a1d7826a21e660800000000000000
+      internalID: 7413253064302372277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_98
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 483
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd366bfcb0f16670800000000000000
+      internalID: 8530363863678729724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 483
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a437294ac3a52e680800000000000000
+      internalID: -8727313911385001142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 483
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49530011309758200800000000000000
+      internalID: 181684414055462292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 483
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e5aea1b9deb380800000000000000
+      internalID: -8953479652003420927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_102
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 494
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f222c74d87f474c0800000000000000
+      internalID: -4290532358810885387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_103
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 497
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40531483bf237e120800000000000000
+      internalID: 2442977377433761028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_104
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 493
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1eaf664339884f0800000000000000
+      internalID: -826248678347185734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_105
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 493
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67472a8cf135114d0800000000000000
+      internalID: -3165657667089566602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_106
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 493
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac1efd8ff131340800000000000000
+      internalID: 4833241978867141327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 493
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb376093653838e0800000000000000
+      internalID: -1713560956473754686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_108
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 490
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c820d3cc97fa290800000000000000
+      internalID: -7876943305143841752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_109
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 490
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca74c6cb6960cbd0800000000000000
+      internalID: -2611971872257705265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_110
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 425
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b93215c176bae80800000000000000
+      internalID: -8166320127988229374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_111
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 425
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11835adf24f39c0800000000000000
+      internalID: -3945361091387190810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_112
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 425
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773087f7e3d7d870800000000000000
+      internalID: 8707661397787424631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 425
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacbacb9ada4b5b90800000000000000
+      internalID: -7252120472172970837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_114
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 425
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907995fa9dec7e6e0800000000000000
+      internalID: -1808249291020855543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_115
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 425
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db945d7792c1e4810800000000000000
+      internalID: 1751368269523405245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_116
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 425
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ad343206427010800000000000000
+      internalID: 1185086627232197069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_117
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 425
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1312fa0c64573be70800000000000000
+      internalID: 9129769816350990641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 425
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d7d273e31363390800000000000000
+      internalID: -7839023958108308143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_119
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 425
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee9a41fc108ba9f0800000000000000
+      internalID: -456130075452334355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_120
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 454
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe700abcafda6280800000000000000
+      internalID: -9049174568299626759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_121
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 456
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ee84293292da80800000000000000
+      internalID: -8443525577242123660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_122
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 452
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647dd65bed3afb590800000000000000
+      internalID: -7656220664584612026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_123
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 452
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c6b36a340c1c70800000000000000
+      internalID: 8943027608878499466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_124
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f986cea584a4c230800000000000000
+      internalID: 3658229691401538040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_125
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 454
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733eff0fb78524c60800000000000000
+      internalID: 7800894793906643767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_126
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 450
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdde8581dde4d600800000000000000
+      internalID: 492279743434907079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_127
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 450
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1523fd4d936c9b0800000000000000
+      internalID: -5060293544863706704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_128
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969794ecaa6817170800000000000000
+      internalID: 8174462866817644905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_129
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680c4b7a03f03480800000000000000
+      internalID: -8921363635477149587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_130
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867ebe30348ba3b0800000000000000
+      internalID: -5500157177156962682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_131
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740111ce187b95c0800000000000000
+      internalID: -4207637353364126604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_132
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebaaea7e5712f40800000000000000
+      internalID: 5701968241156079338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_133
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec082f705911f30800000000000000
+      internalID: 4544577360359378467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_134
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d306230c0afb7ff90800000000000000
+      internalID: -6919851605291278275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_135
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774ec67e4b3047e30800000000000000
+      internalID: 4500226003161638007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_136
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b79582307b90860800000000000000
+      internalID: 7496724278924639130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_137
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 417
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f903325168c94fa0800000000000000
+      internalID: -5815897123455825417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_138
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 372
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ac892aad11f090800000000000000
+      internalID: -8002582446181932974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 372
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c3a0dd3012a1c0800000000000000
+      internalID: -4494011620482890951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 372
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1817270f0d4220800000000000000
+      internalID: 2471648293891349454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 372
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36b93b3be1fce30800000000000000
+      internalID: 4525869907691922407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 372
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b75ff2faa410c90800000000000000
+      internalID: -7205395812531733651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_143
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 372
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0359ebe9c6a160800000000000000
+      internalID: 7036533482882010411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_144
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 372
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46591f96f4616b710800000000000000
+      internalID: 1708577638969349476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_145
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 372
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5c35d5778c4440800000000000000
+      internalID: 4921457432967535928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_146
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 372
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d170fc9cc160760800000000000000
+      internalID: 7423652688854195575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_147
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 372
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7ce46e0c6dfc50800000000000000
+      internalID: 6700630629675728882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_148
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad231fb039951f220800000000000000
+      internalID: 2517892154772239066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_149
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b76336774ae470800000000000000
+      internalID: 8424624625944080733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_150
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47226de58413a80800000000000000
+      internalID: -8488924250459966212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_151
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1643b445ba009180800000000000000
+      internalID: -9110770272512555489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_152
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa97501beb8f0180800000000000000
+      internalID: -9146938476458435843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_153
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 366
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a94f5e40d77ee0800000000000000
+      internalID: -1263312135429447349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_154
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 366
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db33ebec5f98f00800000000000000
+      internalID: 1119696250681408913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_155
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 366
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c333499122eda8c0800000000000000
+      internalID: -3986281461219904574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_156
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 366
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ededb857828230a0800000000000000
+      internalID: -6903311760984511006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_157
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 366
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6b56b5f7772a40800000000000000
+      internalID: 5343371380108520467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 607
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5425a8625349d30800000000000000
+      internalID: 4437229972512458230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - SA-X Clone_159
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 10
+        width: 164
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47502f887b8f09940800000000000000
+      internalID: 5301010228575339892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69a0be27816ec1040b9b8aab6af9b7be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

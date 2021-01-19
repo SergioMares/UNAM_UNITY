@@ -6,6 +6,7 @@ materiales físicos y joints).
 --RECOMENDACIONES GENERALES--
 -> Explorar la carpeta 'Scenes' y cambiar las propiedades componentes rigidbody, 
 así como las de los materiales físicos, con el motivo de conocer como afecta cada una de estas propiedades
+-> Tener en cuenta que varias escenas cuentan con múltiples cámaras con diferentes display
 
 
 --REPOSITORIO DEL PROYECTO--
